@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Basic Etch-a-Sketch</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <h1>Etch-a-Sketch</h1>
+
+    <button id="clearBtn">Clear</button>
+
+    <div id="container"></div>
+
+    <script src="index.js"></script>
+
+</body>
+</html>
+<style>
+    body{
+    font-family: Arial, sans-serif;
+    text-align:center;
+    background:#f2f2f2;
+}
+
+#container{
+    width:480px;
+    height:480px;
+    margin:20px auto;
+    display:flex;
+    flex-wrap:wrap;
+    border:2px solid black;
+}
+
+.square{
+    width:30px;
+    height:30px;
+    box-sizing:border-box;
+    border:1px solid #ddd;
+}
+
+.square:hover{
+    background:black;
+}
+
+button{
+    padding:10px 20px;
+    cursor:pointer;
+}
+</style>
