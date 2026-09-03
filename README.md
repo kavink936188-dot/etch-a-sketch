@@ -88,11 +88,3 @@ Open `index.html` in a modern browser.
 
 Building this project improved my understanding of how JavaScript interacts with the browser DOM and how user events can be converted into real-time visual behavior.
 
-## 👨‍💻 Author
-
-**Your Name**
-Computer Science & Engineering Student
-
-⭐ If you find this project useful, consider starring the repository.
-
-**Built with HTML, CSS & JavaScript.**
