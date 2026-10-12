@@ -1,8 +1,8 @@
-# 🎨 Etch-a-Sketch — Interactive Drawing Engine
+#Etch-a-Sketch — Interactive Drawing Engine
 
 A lightweight browser-based drawing application built with **HTML5, CSS3, and modern JavaScript (ES6+)**.
 
-## 🚀 Features
+##Features
 
 * Dynamic grid generation using JavaScript
 * Real-time mouse-based drawing
@@ -15,7 +15,7 @@ A lightweight browser-based drawing application built with **HTML5, CSS3, and mo
 * Clean separation of HTML, CSS, and JavaScript
 * No external frameworks or dependencies
 
-## 🧠 Engineering Concepts
+## Engineering Concepts
 
 This project demonstrates practical understanding of:
 
@@ -30,13 +30,13 @@ This project demonstrates practical understanding of:
 * Browser event handling
 * Git and GitHub workflow
 
-## 🛠️ Tech Stack
+##Tech Stack
 
 **Frontend:** HTML5, CSS3, JavaScript ES6+
 **Version Control:** Git
 **Deployment:** GitHub Pages
 
-## ⚙️ Architecture
+## Architecture
 
 ```text
 User Input
@@ -52,9 +52,7 @@ Mouse Events
 Rendering / Drawing
 ```
 
-The application generates the drawing grid dynamically instead of hard-coding individual cells, making the interface scalable and maintainable.
-
-## 📂 Project Structure
+## Project Structure
 
 ```text
 etch-a-sketch/
@@ -64,7 +62,7 @@ etch-a-sketch/
 └── README.md
 ```
 
-## ▶️ Run Locally
+## Run Locally
 
 ```bash
 git clone https://github.com/YOUR-USERNAME/etch-a-sketch.git
@@ -73,7 +71,7 @@ cd etch-a-sketch
 
 Open `index.html` in a modern browser.
 
-## 📈 Future Improvements
+##Future Improvements
 
 * Undo/Redo history
 * Touch-screen support
@@ -84,7 +82,7 @@ Open `index.html` in a modern browser.
 * Accessibility improvements
 * Performance optimization for high-resolution grids
 
-## 🎯 What I Learned
+## What I Learned
 
 Building this project improved my understanding of how JavaScript interacts with the browser DOM and how user events can be converted into real-time visual behavior.
 
