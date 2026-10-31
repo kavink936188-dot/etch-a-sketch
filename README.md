@@ -62,14 +62,7 @@ etch-a-sketch/
 └── README.md
 ```
 
-## Run Locally
 
-```bash
-git clone https://github.com/YOUR-USERNAME/etch-a-sketch.git
-cd etch-a-sketch
-```
-
-Open `index.html` in a modern browser.
 
 ##Future Improvements
 
